@@ -1,6 +1,6 @@
 import firebase from 'firebase/app';
 import { firebaseConfig } from './credentials';
-import { HomePage } from '../pages/home/home';
+import { HomePage } from './home/home.page';
 
 import { Component } from '@angular/core';
 
